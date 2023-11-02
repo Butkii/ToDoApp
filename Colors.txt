@@ -1,0 +1,9 @@
+primary: #4568dc
+secondary: #b06ab3
+black: #000000
+white: #fcf7ea
+#151f42
+#2a4b94
+#4568dc
+#bb7cbe
+#7d7b85
